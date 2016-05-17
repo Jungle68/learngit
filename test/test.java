@@ -1,3 +1,4 @@
 pulic class Person{
-	private String age;
+	private String age；
+	private Stirng name；
 }
