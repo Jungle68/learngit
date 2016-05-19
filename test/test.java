@@ -3,6 +3,7 @@ pulic class Person{
 	private Stirng name；
 	private Stirng sex；
 	private Stirng sex1；
+	private Stirng git -off；
 
 	private Stirng sddd；
 
